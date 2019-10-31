@@ -5,5 +5,5 @@ caption: Σύστημα παρακολούθησης και ελέγχου φυ�
 http://cybertronica.co/?q=products/phytosensor
 title: phytosensor_sc
 categories:
-  - smart plnts
+  - smart plants
 ---
